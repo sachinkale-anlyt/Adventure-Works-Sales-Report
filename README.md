@@ -34,7 +34,7 @@ The dashboard provides a comprehensive view of sales performance across **produc
 - Top products by Orders and Profit
 - Country-wise revenue analysis
 ### Screenshot:
-screenshots_1.jpeg
+![Executive Summary](screenshots_1.jpeg)
 
 ### 2️⃣ Product Details
 - Product-level revenue and order analysis
@@ -42,7 +42,7 @@ screenshots_1.jpeg
 - Target vs Actual comparison using KPI gauges
 - Parameter-based price and profit analysis
 ### Screenshot:
-screenshots_2.jpeg
+![Product Details](screenshots_2.jpeg)
 
 ### 3️⃣ Customer Details
 - Orders by Gender, Income Level, Occupation, and Age Group
@@ -50,11 +50,11 @@ screenshots_2.jpeg
 - Top customer by revenue and order count
 - Detailed customer-level sales table
 ### Screenshot:
-screenshots_3.jpeg
+![Customer Details](screenshots_3.jpeg)
 
 ### 4️⃣ Subcategory Tooltip
 - Dynamic tooltip page
 - Subcategory-wise order distribution
 - Used for enhanced drill-down and interactivity
 ### Screenshot:
-screenshots_4.jpeg
+![SubcategoryName-Tooltip](screenshots_4.jpeg)
