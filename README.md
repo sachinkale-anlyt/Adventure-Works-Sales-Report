@@ -14,3 +14,9 @@ This project analyzes sales data from the Adventure Works dataset to identify tr
 ## Files
 - `AdventureWorks_Sales_Report.pbix` – Power BI dashboard
 - `data/` – Raw dataset
+
+## All Screenshots
+![Executive Summary](screenshots_1.jpg)
+![Product Details](screenshots_2.jpg)
+![Customer Details](screenshots_3.jpg)
+![SubcategoryName-Tooltip](screenshots_4.jpg)
