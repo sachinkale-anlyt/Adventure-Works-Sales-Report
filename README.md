@@ -16,7 +16,7 @@ This project analyzes sales data from the Adventure Works dataset to identify tr
 - `data/` – Raw dataset
 
 ## All Screenshots
-![Executive Summary](screenshots_1.jpg)
-![Product Details](screenshots_2.jpg)
-![Customer Details](screenshots_3.jpg)
-![SubcategoryName-Tooltip](screenshots_4.jpg)
+![Executive Summary](screenshots_1.jpeg)
+![Product Details](screenshots_2.jpeg)
+![Customer Details](screenshots_3.jpeg)
+![SubcategoryName-Tooltip](screenshots_4.jpeg)
